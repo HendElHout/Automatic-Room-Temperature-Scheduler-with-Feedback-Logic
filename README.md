@@ -80,4 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📧 Contact
 
-Project Link: [https://github.com/HendElHout/Automatic-Room-Temperature-Scheduler-with-Feedback-Logic.](https://github.com/HendElHout/Automatic-Room-Temperature-Scheduler-with-Feedback-Logic.)
+Project Link: [[https://github.com/HendElHout/Automatic-Room-Temperature-Scheduler-with-Feedback-Logic.](https://github.com/HendElHout/Automatic-Room-Temperature-Scheduler-with-Feedback-Logic)](https://github.com/HendElHout/Automatic-Room-Temperature-Scheduler-with-Feedback-Logic.)
