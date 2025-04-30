@@ -74,9 +74,6 @@ A simulation of a smart thermostat system that automatically adjusts room temper
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue if you have suggestions or find bugs.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. *(Make sure you add a LICENSE.md file to your repository)*
 
 ## 📧 Contact
 
